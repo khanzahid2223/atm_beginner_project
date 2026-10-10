@@ -81,8 +81,8 @@ class ATM:
         # Dictionary stores accounts using account number as the key.
         self.accounts = {
             "1001": StudentAccount("Zahid", "1001", "1234", 5000),
-            "1002": Account("Rahul", "1002", "5678", 2500),
-            "1003": Account("Ayesha", "1003", "4321", 7500),
+            "1002": Account("Tayab", "1002", "5678", 2500),
+            "1003": Account("Arosh", "1003", "4321", 7500),
         }
 
     @staticmethod
